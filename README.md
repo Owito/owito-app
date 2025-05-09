@@ -24,4 +24,34 @@ Facilitar la estimulación semántica del lenguaje a través de pictogramas, aud
 - **PWA**: soporte offline, instalación y uso autónomo
 
 ## 🗂️ Estructura del proyecto
+src/
+├── assets/ # Íconos y pictogramas
+├── components/ # Navbar, SemanticCard, Layout
+├── pages/ # Vistas por cada categoría
+├── data/ # categorias.json
+├── hooks/ # useCategoria.js
+├── routes.jsx # Sistema de rutas anidadas
+└── App.jsx # Contenedor principal
+
+## 🚀 Cómo ejecutar
+1. Clona el repositorio:
+git clone https://github.com/Owito/owito-app.git
+
+2. Instala dependencias
+
+3. Ejecuta en desarrollo:
+npm run dev
+
+4. Abre en tu navegador:
+http://localhost:5173
+
+
+## 🤝 Contribuciones
+
+Este proyecto está abierto a aportes de fonoaudiólogos, diseñadores UX, educadores y desarrolladores interesados en accesibilidad y tecnología asistiva.
+
+---
+
+© 2025 Carlos G · Proyecto Owito
+
 
