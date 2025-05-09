@@ -1,0 +1,162 @@
+{
+    "jardin": [
+        {
+            "nombre": "Matera",
+            "descripcion": "planta, flor, tierra",
+            "audio": "/audios/matera.mp3"
+        },
+        {
+            "nombre": "Piedras",
+            "descripcion": "decorativas, grises",
+            "audio": "/audios/piedras.mp3"
+        },
+        {
+            "nombre": "Manguera",
+            "descripcion": "enrollada, riego",
+            "audio": "/audios/manguera.mp3"
+        },
+        {
+            "nombre": "Regadera",
+            "descripcion": "agua, jardinería",
+            "audio": "/audios/regadera.mp3"
+        }
+    ],
+    "frente": [
+        {
+            "nombre": "Techo",
+            "descripcion": "tejas, protección, lluvia"
+        },
+        {
+            "nombre": "Garaje",
+            "descripcion": "puerta metálica, entrada"
+        },
+        {
+            "nombre": "Puerta",
+            "descripcion": "madera, abrir, cerrar"
+        },
+        {
+            "nombre": "Ventana",
+            "descripcion": "vidrio, luz, cortina"
+        },
+        {
+            "nombre": "Timbre",
+            "descripcion": "llamar, sonido"
+        }
+    ],
+    "garaje": [
+        {
+            "nombre": "Herramientas",
+            "descripcion": "martillo, destornillador, caja"
+        },
+        {
+            "nombre": "Carro",
+            "descripcion": "llantas, volante, puerta"
+        },
+        {
+            "nombre": "Moto",
+            "descripcion": "casco, dos ruedas"
+        },
+        {
+            "nombre": "Bicicleta",
+            "descripcion": "pedales, timbre"
+        }
+    ],
+    "sala": [
+        {
+            "nombre": "Sofá",
+            "descripcion": "cojines, descanso"
+        },
+        {
+            "nombre": "Silla",
+            "descripcion": "respaldo, madera"
+        },
+        {
+            "nombre": "Equipo de sonido",
+            "descripcion": "música, parlantes"
+        },
+        {
+            "nombre": "Televisor",
+            "descripcion": "pantalla, programas"
+        },
+        {
+            "nombre": "Cuadro",
+            "descripcion": "pintura, decoración"
+        },
+        {
+            "nombre": "Reloj",
+            "descripcion": "hora, tictac"
+        }
+    ],
+    "cocina": [
+        {
+            "nombre": "Estufa",
+            "descripcion": "fuego, perillas"
+        },
+        {
+            "nombre": "Nevera",
+            "descripcion": "frío, comida"
+        },
+        {
+            "nombre": "Licuadora",
+            "descripcion": "batir, cuchillas"
+        },
+        {
+            "nombre": "Platos",
+            "descripcion": "comer, servir"
+        }
+    ],
+    "bano": [
+        {
+            "nombre": "Espejo",
+            "descripcion": "reflejo, cara"
+        },
+        {
+            "nombre": "Lavamanos",
+            "descripcion": "agua, jabón"
+        },
+        {
+            "nombre": "Sanitario",
+            "descripcion": "tapa, descargar"
+        },
+        {
+            "nombre": "Ducha",
+            "descripcion": "baño, agua caliente"
+        },
+        {
+            "nombre": "Cepillo dental",
+            "descripcion": "crema, higiene"
+        }
+    ],
+    "cuarto": [
+        {
+            "nombre": "Cama",
+            "descripcion": "almohada, cobija"
+        },
+        {
+            "nombre": "Armario",
+            "descripcion": "ropa, puertas"
+        },
+        {
+            "nombre": "Ropa",
+            "descripcion": "camisa, pantalón"
+        },
+        {
+            "nombre": "Zapatos",
+            "descripcion": "cordones, caminar"
+        }
+    ],
+    "patio": [
+        {
+            "nombre": "Lavadora",
+            "descripcion": "ropa, girar"
+        },
+        {
+            "nombre": "Tendedero",
+            "descripcion": "pinzas, secar"
+        },
+        {
+            "nombre": "Lavadero",
+            "descripcion": "jabón, cepillo"
+        }
+    ]
+}
